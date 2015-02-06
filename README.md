@@ -1,2 +1,2 @@
 # PugnaPorcorum
-Transcription and Translation of a 1530 Latin Poem, "The Battle of the Pigs"
+Transcription and Translation of a 1830 Latin Poem, "The Battle of the Pigs"
