@@ -7,6 +7,7 @@ For general information about this project, please visit the [GitClassics site](
 
 * First, fork the repository to get a copy of the text files on your own computer.
 * Take a look at the PDF and pick a page that you'd like to work on transcribing. Once you've found a page to work on, head over to the [Issues](https://github.com/GitClassics/PugnaPorcorum/issues) page and post a message to announce your work on that page.
+	* Check open issues to see if someone is already working on your page.
 	* By posting a message we can avoid multiple people working on the same page at the same time.
 * Remember that you need to type out Latin in a text editor, not a word processor. **Do not use Microsoft Word.** You can use your computer's default text editor like Notepad (Windows) or TextEdit (Mac), or you can download a more powerful text editor like [Notepad++](http://www.notepad-plus-plus.org/).
 * When you've finished your section, submit a pull request. I'll review your submission and merge your contribution with the rest of the text.
