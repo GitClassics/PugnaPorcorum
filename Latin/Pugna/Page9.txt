@@ -2,7 +2,7 @@ Pugna Porcorum
 Per   
 P. Porcium Poetam   
 
-Plaudite porcelli, porcorum pigra propago.[^fn1]   
+Plaudite porcelli, porcorum pigra propago.[^Processus porcorum ponitur.]   
 Progreditur, plures porci pinguedine pleni   
 Pugnantes pergunt, pecudem pars prodigiosa,   
 Perturbat pede petrosas plerumque plateas,   
@@ -12,5 +12,3 @@ Praetendit punire pares, prosternere parvos.
 Primo porcorum praefecti pectore plano   
 Pistorum porci prostant pinguedine pulchri   
 Pugnantes prohibent porcellos, ponere poenas   
-
-[^fn1]:Processus porcorum ponitur.
