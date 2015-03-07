@@ -24,9 +24,9 @@ Placati populi pactum pariforme prebabit.
 Publica patronum pacis, privata parenter  
 Pectora perpetuo plausu pariter perhibebunt.  
 Prudens pontificis pectus, per plura probetur  
-Plectra po&euml;tarum, plerique po&euml;mate prorsus  
+Plectra poëtarum, plerique poëmate prorsus  
 Praecellat princeps pacis, princeps pietatis.  
 Postremo pronunciavit.  
-Pensa pauperiem, princeps praeclare, po&euml;tae.  
+Pensa pauperiem, princeps praeclare, poëtae.  
 Finis.  
 
