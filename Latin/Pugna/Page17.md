@@ -11,7 +11,7 @@ Ponto, praeterea plus provenisse pericli
 Presuasu parochi, plus ponderibus pavimenti   
 Portae praecelsa, plus pulveribus platearum.   
 Protestabantur poenis plectendum poste patente,   
-Ponendum prope prunas , particulisque perustis   
+Ponendum prope prunas, particulisque perustis   
 Profundo puteo profunde praecipitandum,   
 Publicitus pugiles praedicta piacula patrant.[^Poena Philomusi]   
 Plebsque putat pulchrum philomusum perdere porcum,   
