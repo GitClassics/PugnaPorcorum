@@ -18,7 +18,7 @@ Per pia porcorum petimus penetralia, posthac
 Praelati poterint patrata piacula parce   
 Perpetrare, procul postponite proelia parva,   
 Prae praelatorum poenis patientia praestat.   
-Plebs porcellorum parte praecone parato[^Propositiones porcello?un particulares.]   
+Plebs porcellorum parte praecone parato[^Propositiones porcellorum particulares.]   
 Porcis praelatis proponit particulares   
 Pacis particulas: pateant praesentia pacta   
 Poreorum poculo, porcorum posteritati.   
