@@ -1,3 +1,7 @@
+---
+prev: Latin/Pugna/Page20.html
+next: Latin/Praecatiuncula/Praecatiuncula.html
+---
 Potentissimo, pientissimo, prudentissimoque principi,  
 Patri Purpurato, praesenti pontifici,  
 Placentius  

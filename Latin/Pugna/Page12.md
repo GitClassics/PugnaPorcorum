@@ -1,3 +1,8 @@
+---
+title: Pugna Page 12
+prev: Latin/Pugna/Page11.html
+next: Latin/Pugna/Page13.html
+---
 Principio petimus praelatos perpetuatos   
 Postponi, propter pia privilegia patrum,   
 Porcellos patuit pariformi pendere pastos   
@@ -9,16 +14,19 @@ Porcorum pectus putri pinguedine plenum
 Projicitur passim, partim pro peste putatur,   
 Propterea porcis praelatio praeripiatur.   
 Pergite porcelli praefectos praecipitare.   
-Pro praelatura porci pugnare parati[^Posteriorum pugna.]   
+Pro praelatura porci pugnare parati[^1]   
 Prosiliunt, pars prata petit, para prona paludes   
 Prodit praecipuo proterva potentia plausu,   
 Porro porcelli pulchra per prata perurgent   
 Pinguiculos properare procul, penetrare parati,   
 Per portas patulas, porcos perfodere pergunt.   
 Prosternunt, pinguedo potens prohibet properare.   
-Propterea pacem proponunt; parcite porcis,[^Porci pacisci petunt.]   
+Propterea pacem proponunt; parcite porcis,[^2]   
 Porcelli posthac potiemur pace perenni:   
 Propterea pulcher porcellus praeco politus   
 Prospiciens patres pronos peccata profari,   
 Proupiciens positos praeda, positosque periclo.   
 Propositum pandit; pacem proferre potentia;   
+
+[^1]: Posteriorum pugna.
+[^2]: Porci pacisci petunt.
