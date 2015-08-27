@@ -1,7 +1,3 @@
----
-title: README
-redirect_from: /
----
 
 # PugnaPorcorum
 This project aims to produce a transcription and translation of the Latin poem, _The Battle of the Pigs_.
@@ -36,14 +32,3 @@ We'll start translating once we're done with the transcription of the Latin text
 ## Questions?
 
 If you have questions about some Latin---maybe some text is blurry or you just find a word that seems out of place---head over to the Issues page and ask!
-
-## GitHub Pages
-
-Markdown pages use [YAML front matter](http://jekyllrb.com/docs/frontmatter/) to set metadata required for rendering on [GitHub pages](https://help.github.com/categories/github-pages-basics/); these are the headers separated by a pair of three dashes.
-
-In addition, you can serve or generate a static version of the site with `jekyll` (requires Ruby and [bundler](http://bundler.io/)):
-
-    bundle install
-    bundle exec jekyll serve -w
-
-Then open <http://localhost:4000/PugnaPorcorum/>.
