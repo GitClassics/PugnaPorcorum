@@ -1,6 +1,3 @@
----
-prev: Latin/Placentius/Placentius.html
----
 Praecatiuncula   
 P. Porcii Poëtae,   
 

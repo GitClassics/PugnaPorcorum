@@ -1,9 +1,3 @@
----
-title: Proditur Poëta
-next: Latin/Pugna/Page9.html
-prev: Latin/Prefatory/LectoriBenevolo.html
----
-
 Proditur Poëta   
 
 Plura Latent Animo Coelata, Et non Temeranda   
