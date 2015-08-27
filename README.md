@@ -2,7 +2,7 @@
 # PugnaPorcorum
 This project aims to produce a transcription and translation of the Latin poem, _The Battle of the Pigs_.
 
-## UPDATE: You can find the Latin transcription at the project website: http://gitclassics.github.io/PugnaPorcorum
+### UPDATE: You can find the Latin transcription at the project website: http://gitclassics.github.io/PugnaPorcorum
 
 For general information about this project, please visit the [GitClassics site](http://gitclassics.github.io).
 
