@@ -20,9 +20,9 @@ I decided to use [Kramdown](http://kramdown.gettalong.org/) for this project sin
 Since the _Pugna Porcorum_ document includes both prose and poetry, it's important to format your text correctly depending on what you're transcribing.
 
 * If you're transcribing poetry, please **leave three blank spaces at the end of each line**. By including these spaces at the end of the lines, you will guarantee that our files will keep every line of hexameter separate. If you don't leave these spaces at the end of line, Markdown will understand lines of hexameter as one continuous prose paragraph. 
-* The _Pugna_ includes footnotes. If your line has a footnote, you should write the line using the following format. You'll notice that we're putting footnotes at the **end** of the line (even though the original text includes them at the beginning). You should use square brackets at the end of the line. Include a caret (^) after the first bracket, enter the number of the footnote, and then close with the second square bracket. Then place the footnote definition at the end.
-	Plaudite porcelli, porcorum pigra propago.[^1]
-  [^1]: Processus porcorum ponitur.
+* The _Pugna_ includes footnotes. If your line has a footnote, you should write the line using the following format. You'll notice that we're putting footnotes at the **end** of the line (even though the original text includes them at the beginning). You should use square brackets at the end of the line. Include a caret (^) after the first bracket, enter the number of the footnote, and then close with the second square bracket. Then place the footnote definition at the end.   
+	Plaudite porcelli, porcorum pigra propago.[^1]   
+  [^1]: Processus porcorum ponitur.   
 * For an example of what your text should look like, check out Page9.md, which I have already finished. You can also read the [Kramdown documentation on footnotes](http://kramdown.gettalong.org/quickref.html#footnotes).
 
 ## What about Translations?
